@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nil+Delgado;"/>
+</h1>
 
-<!--
-**SokuGames/SokuGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,html"/><br>
+    <img src="https://skillicons.dev/icons?i=ai,blender,pr,ps,sublime,xd"/><br>
+    <img src="https://skillicons.dev/icons?i=ae,figma"/>
+</div>
