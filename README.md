@@ -11,5 +11,5 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,css,html"/><br>
     <img src="https://skillicons.dev/icons?i=ai,blender,pr,ps,sublime,xd"/><br>
-    <img src="https://skillicons.dev/icons?i=ae,figma"/>
+    <img src="https://skillicons.dev/icons?i=figma"/>
 </div>
