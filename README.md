@@ -10,6 +10,6 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,css,html"/><br>
-    <img src="https://skillicons.dev/icons?i=ai,blender,pr,ps,sublime,xd"/><br>
-    <img src="https://skillicons.dev/icons?i=figma"/>
+    <img src="https://skillicons.dev/icons?i=figma,xd,sublime,vscode"/><br>
+    <img src="https://skillicons.dev/icons?i=blender,canva,ai,ps,pr"/>
 </div>
