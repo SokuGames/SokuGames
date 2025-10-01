@@ -9,8 +9,7 @@
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=css,html"/><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap"/><br>
-    <img src="https://skillicons.dev/icons?i=figma,xd,sublime,vscode"/><br>
-    <img src="https://skillicons.dev/icons?i=blender,ai,ps,pr"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js"/>
+    <img src="https://skillicons.dev/icons?i=vscode,sublime,figma,xd"/>
+    <img src="https://skillicons.dev/icons?i=ps,ai,indesign,pr,blender"/>
 </div>
