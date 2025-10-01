@@ -1,15 +1,16 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nil+Delgado+Ruiz;"/>
-</h1>
+<h1 align="center">🛠️ Skills</h1>
 
-<hr>
+<h2 align="center">💻 Languages & Frameworks</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind"/>
+</p>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🖥️ Code Editors</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,sublime"/>
+</p>
 
-<br>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js"/>
-    <img src="https://skillicons.dev/icons?i=vscode,sublime,figma,xd"/>
-    <img src="https://skillicons.dev/icons?i=ps,ai,indesign,pr,blender"/>
-</div>
+<h2 align="center">🎨 UI/UX & Design</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,blender"/>
+</p>
