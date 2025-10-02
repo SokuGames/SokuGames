@@ -1,20 +1,22 @@
-## Hello there!
+## Hello There!
 
 I'm Nil Delgado
 
-### Tech I use
+### Tech I Use
 
 [![Skills I use](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,sublime,figma,photoshop,illustrator,premiere,blender)](https://skillicons.dev)
 
-### Tech I know (Basic)
+### Tech I Know (Basic)
 
 [![Skills I use](https://skillicons.dev/icons?i=js,mysql,xd)](https://skillicons.dev)
 
-### Tech I'm learning
+### Tech I'm Learning
 
 [![Skills I'm learning](https://skillicons.dev/icons?i=cpp,obsidian,markdown,latex,git,unreal)](https://skillicons.dev)
 
 ---
+
+### Where to Find Me
 
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nildruiz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230a66c2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/nil-delgado)
