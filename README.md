@@ -4,11 +4,15 @@ I'm Nil Delgado
 
 ### Tech I use
 
-[![Skills I use](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vscode,sublime,figma,photoshop,xd,illustrator,premiere,blender)](https://skillicons.dev)
+[![Skills I use](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,sublime,figma,photoshop,illustrator,premiere,blender)](https://skillicons.dev)
+
+### Tech I know (Basic)
+
+[![Skills I use](https://skillicons.dev/icons?i=js,mysql,xd)](https://skillicons.dev)
 
 ### Tech I'm learning
 
-[![Skills I'm learning](https://skillicons.dev/icons?i=cpp,obsidian,markdown,latex)](https://skillicons.dev)
+[![Skills I'm learning](https://skillicons.dev/icons?i=cpp,obsidian,markdown,latex,git,unreal)](https://skillicons.dev)
 
 ---
 
