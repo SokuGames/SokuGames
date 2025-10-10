@@ -2,17 +2,21 @@
 
 I'm Nil Delgado
 
-### Tech I Use
+---
 
-[![Skills I use](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,sublime,figma,photoshop,illustrator,premiere,blender)](https://skillicons.dev)
+## 🛠️ Tech & Tools
 
-### Tech I Know (Basic)
+### Proficient
+[![Skills I use](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma)](https://skillicons.dev)
 
-[![Skills I use](https://skillicons.dev/icons?i=js,mysql,xd)](https://skillicons.dev)
+### Average
+[![Skills I use](https://skillicons.dev/icons?i=blender,xd,photoshop,illustrator,premiere)](https://skillicons.dev)
 
-### Tech I'm Learning
+### Basic
+[![Skills I use](https://skillicons.dev/icons?i=js,mysql)](https://skillicons.dev)
 
-[![Skills I'm learning](https://skillicons.dev/icons?i=cpp,obsidian,markdown,latex,git,unreal)](https://skillicons.dev)
+### Just Starting / Learning
+[![Skills I use](https://skillicons.dev/icons?i=cpp,markdown,latex,obsidian,git)](https://skillicons.dev)
 
 ---
 
