@@ -7,16 +7,24 @@ I'm Nil Delgado
 ## 🛠️ Tech & Tools
 
 ### Proficient
-[![Skills I use](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma" height="40">
+</a>
 
 ### Average
-[![Skills I use](https://skillicons.dev/icons?i=blender,xd,photoshop,illustrator,premiere)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=blender,xd,photoshop,illustrator,premiere" height="40">
+</a>
 
 ### Basic
-[![Skills I use](https://skillicons.dev/icons?i=js,mysql)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,mysql" height="40">
+</a>
 
 ### Just Starting / Learning
-[![Skills I use](https://skillicons.dev/icons?i=cpp,markdown,latex,obsidian,git)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,markdown,latex,obsidian,git" height="40">
+</a>
 
 ---
 
