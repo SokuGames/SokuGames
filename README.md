@@ -13,7 +13,7 @@ I'm Nil Delgado
 
 ### Average
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=blender,xd,photoshop,illustrator,premiere" height="40">
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,xd,premiere,blender" height="40">
 </a>
 
 ### Basic
@@ -23,7 +23,7 @@ I'm Nil Delgado
 
 ### Just Starting / Learning
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,markdown,latex,obsidian,git" height="40">
+  <img src="https://skillicons.dev/icons?i=cpp,git,markdown,latex,obsidian" height="40">
 </a>
 
 ---
